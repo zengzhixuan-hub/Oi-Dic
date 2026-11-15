@@ -1,2 +1,4 @@
-# Oi-Dic
-OI(Olympiad in Informatics) - Dictionary
+### **欢迎来到 OI - DIC**
+
+> **Q:OI - DIC 是什么?**
+> OI 是**奥林匹克信息学**的缩写，**OI - DIC**旨在让学习`OI`的`OIer`相查字典一样快速找到对应的知识点。
